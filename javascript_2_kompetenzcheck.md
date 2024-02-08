@@ -5,8 +5,8 @@ Ziel: Das Ziel dieser Übung ist es, eine erweiterbare Quiz-Webanwendung mit Jav
 - Serien-, Film-, Game- oder Anime-Quiz  
 - Mathe-Quiz mit Rechenaufgaben 
 
-![Structure of an URL](../img/bsp_quiz_joe.png "HTTP Request")
-![Structure of an URL](../img/bsp_quiz_vidan.png "HTTP Request")
+![Structure of an URL](bsp_quiz_joe.png "HTTP Request")
+![Structure of an URL](bsp_quiz_vidan.png "HTTP Request")
 
 Die Anwendung besteht aus einem Spielfeld mit 9 Feldern, die jeweils eine unterschiedliche Frage repräsentieren. Die Spieler:innen gelangen nur zum nächsten Feld, wenn sie die aktuelle Frage richtig beantworten. Das Spielfeld sollte den Fortschritt und den Status jeder Frage visuell anzeigen.  
 
