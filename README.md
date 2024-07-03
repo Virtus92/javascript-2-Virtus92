@@ -1,3 +1,5 @@
+**Continue with the Scrimba Course, starting from the Chrome Extension**
+
 ## JS2 Kompetenzcheck:
 [Web Quiz App](javascript_2_kompetenzcheck.md)
 
